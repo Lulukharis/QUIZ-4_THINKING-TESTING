@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738922250789,0,Put Contact - 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 60: https://thinking-tester-contact-list.herokuapp.com/contacts/{{contactId}},USERS_ADDUSER 1-1,text,false,,1225,0,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/{{contactId}},0,0,0
